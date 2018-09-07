@@ -15,3 +15,7 @@ h = {'a': a, b: 'b', d: e}
 #%%
 # Printing contents
 print("f = ", f)
+
+# This is probably a merge conflict!
+f[0] = 1
+g[0] = 1
